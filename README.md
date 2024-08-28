@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sharira</h1>
-<h3 align="center">Cheerful, passionate, and hardworking ✨ These three words describe Ira perfectly. My goal in life is to create something that positively impacts everyone. I really enjoy my work, especially when the results benefit the people around me.</h3>
+<h3>Cheerful, passionate, and hardworking ✨</h3>
+<h4>A fresh graduate of Information Technology from Sepuluh Nopember Institute of Technology, I possess a strong foundation in front end 
+development and UI/UX design. Through my involvement in the UKPBJ SITE project, I have honed my skills in HTML, CSS, JavaScript, 
+and Figma to create engaging and informative user interfaces. With a solid understanding of responsive design principles and user 
+experience, I am eager to contribute to shaping the digital future by designing intuitive and memorable user interfaces.</h4>
+
+
 
 - Professional Experience [Internship Front end developer and UI/UX at UKPBJ ITS](https://github.com/ShariraSaniane/FE-UKPBJ-Site)
 
